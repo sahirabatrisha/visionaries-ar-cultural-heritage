@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "fda81761-7c8c-6383-eea9-a18ad67e2329",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Textures",
+    "expandInPanel": true,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]

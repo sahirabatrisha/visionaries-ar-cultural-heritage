@@ -1,0 +1,62 @@
+[
+  {
+    "guid": {
+      "a": "8822b33f-ec60-8d6b-25a7-ee2ab02c82a9",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "gasing_pangkah",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": true,
+    "castShadow": false,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\user\\Downloads\\gasing_pangkah.glb",
+    "materialsGUIDs": [
+      "e86b3b51-0d29-23aa-2928-a87903aaff27",
+      "b73df524-7005-d7cd-2f9e-07f88a0383d7"
+    ],
+    "meshGUIDs": [
+      "751dc2fd-da2a-2e60-c3ca-eda2d6c14191",
+      "7ba8e180-c698-1559-be8d-ff65f29eedb0"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "6dc08a26-234f-434b-75c2-dfce4be801fb",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "final takraw",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]

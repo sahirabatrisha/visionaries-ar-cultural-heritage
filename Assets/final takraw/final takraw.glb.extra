@@ -1,0 +1,60 @@
+[
+  {
+    "guid": {
+      "a": "00458892-e46d-2ac0-2daa-514720b297d2",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "final takraw",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": true,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": true,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\user\\Downloads\\final takraw.glb",
+    "materialsGUIDs": [
+      "d61b41a4-d9a5-ba97-ee06-53ba2829e964"
+    ],
+    "meshGUIDs": [
+      "0c20a75d-610b-abc5-0f29-731383bf36c6"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

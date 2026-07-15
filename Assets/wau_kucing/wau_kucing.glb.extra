@@ -1,0 +1,60 @@
+[
+  {
+    "guid": {
+      "a": "4792a2b5-91f0-7d59-e27b-2784713cc23e",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "wau_kucing",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": false,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": true,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": true,
+    "castShadow": true,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\user\\Downloads\\pre-oderhiasan_wau_kucing.glb",
+    "materialsGUIDs": [
+      "2b9cf521-c0fe-951f-2a2c-0064e34c68f6"
+    ],
+    "meshGUIDs": [
+      "b1c11c87-64e3-b68c-6064-966237cc0b58"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

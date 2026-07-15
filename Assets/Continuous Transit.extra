@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "4ca8cf3c-ed12-5310-5cec-658e18c31a34",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Continuous Transit",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]

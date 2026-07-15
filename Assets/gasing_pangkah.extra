@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "fe23180d-1694-61b5-f34c-0a990479f3bb",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "gasing_pangkah",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]

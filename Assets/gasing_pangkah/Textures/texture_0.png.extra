@@ -1,0 +1,29 @@
+[
+  {
+    "guid": {
+      "a": "4b66a1b2-d962-de56-9636-315d7d27d6c3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "texture_0",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "enableMipmap": true,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 2,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\user\\AppData\\Roaming\\EffectHouse\\Instances\\Instance1\\Assets\\TexturesTmp\\texture_0.png"
+  }
+]

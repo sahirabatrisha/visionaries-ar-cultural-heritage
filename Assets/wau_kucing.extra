@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "6184af37-f35c-651a-7609-4833ed250b66",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "wau_kucing",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]
