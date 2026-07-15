@@ -1,0 +1,1 @@
+let BaseNode=require("../Utils/BaseNode").BaseNode,APJS=require("../../../amazingpro");class CGAnd extends BaseNode{constructor(){super()}getOutput(e){return this.inputs[0]()&&this.inputs[1]()}}exports.CGAnd=CGAnd;

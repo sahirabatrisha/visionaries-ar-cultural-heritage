@@ -1,0 +1,1 @@
+let APJS=require("../../../amazingpro"),BaseNode=require("../Utils/BaseNode").BaseNode;class CGSelect extends BaseNode{constructor(){super()}getOutput(e){return!0===this.inputs[0]()?this.inputs[1]():this.inputs[2]()}}exports.CGSelect=CGSelect;
