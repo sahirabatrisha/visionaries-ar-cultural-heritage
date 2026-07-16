@@ -1,47 +1,58 @@
-# VisionARies - AR Cultural Heritage Experience
+# VisionARies - Augmented Reality Heritage Experience
 
 ## Overview
 
-Course: WIX2001: THINKING AND COMMUNICATION SKILLS
-Semester: SEMESTER 3
-VisionARies is an augmented reality project that promotes Malaysian traditional games through an interactive TikTok AR experience.
+VisionARies is an augmented reality project developed under the SULAM programme in collaboration with Badan Warisan Malaysia.
 
-The project aims to introduce cultural heritage elements to younger generations using immersive technology.
+The project aims to preserve and promote Malaysian traditional games through an interactive AR experience.
 
-## Objectives
+---
 
-- Preserve awareness of Malaysian traditional games
-- Create an engaging digital learning experience
-- Combine cultural education with augmented reality
+## Project Role
 
-## Platform
+Role: Project Manager
+
+Responsibilities:
+
+- Managed project planning and timeline
+- Coordinated team tasks
+- Communicated with stakeholders
+- Oversaw AR development progress
+- Managed user testing activities
+
+---
+
+## Features
+
+- Interactive AR experience
+- Traditional Malaysian game education
+- Digital cultural preservation
+- User engagement through AR filters
+
+---
+
+## Technologies Used
 
 - TikTok Effect House
+- Figma
+- 3D Asset Integration
 
-## Featured Heritage Games
+---
 
-- Gasing
-- Wau
-- Sepak takraw
+## Collaboration
 
-## Technologies
+Partner Organisation:
+Badan Warisan Malaysia
 
-- Augmented Reality
-- TikTok Effect House
-- 3D assets (GLB)
-- Interactive AR design
+---
 
-## Screenshots
-<img width="397" height="709" alt="Screenshot 2026-01-07 223450" src="https://github.com/user-attachments/assets/5fe580cd-912b-410b-871d-9b2da89882c1" />
-<img width="401" height="715" alt="Screenshot 2026-01-07 223608" src="https://github.com/user-attachments/assets/fd606b32-77f3-441b-a21c-0b5387523760" />
-<img width="421" height="753" alt="Screenshot 2026-01-03 210102" src="https://github.com/user-attachments/assets/38f76959-17df-4195-a295-575359c2514f" />
+## Author
 
-## Project Contribution
+Nur Sahira Batrisyia  
+As part of group project,
+WIX2001: Thinking and Communication Skills
 
-- AR effect development
-- Heritage content research
-- User experience design
-- Testing and refinement
+Bachelor of Computer Science (Artificial Intelligence)  
+Universiti Malaya
 
-
-
+(January 2026)
